@@ -73,23 +73,6 @@ This will:
 - 🎨 Launch the frontend interface
 - 🌐 Open http://localhost:3000 automatically
 
-## 📸 Screenshots
-
-### Light Theme
-<div align="center">
-  <img src="assets/screenshot-light.png" alt="ChatFlow AI Light Theme" width="800" />
-</div>
-
-### Dark Theme  
-<div align="center">
-  <img src="assets/screenshot-dark.png" alt="ChatFlow AI Dark Theme" width="800" />
-</div>
-
-### Mobile View
-<div align="center">
-  <img src="assets/screenshot-mobile.png" alt="ChatFlow AI Mobile" width="400" />
-</div>
-
 ## 🎨 Theme System
 
 ChatFlow AI features a sophisticated theme system:
@@ -392,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <img src="assets/logo.svg" alt="ChatFlow AI" width="60" height="60" />
   
-  **Made with ❤️ by the ChatFlow AI team**
+  **Made with ❤️ by Rusil**
   
   <p>
     <a href="https://github.com/yourusername/chatflow-ai">⭐ Star us on GitHub</a> •
