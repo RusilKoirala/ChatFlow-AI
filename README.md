@@ -18,9 +18,7 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
-  <a href="#screenshots">Screenshots</a> •
   <a href="#installation">Installation</a> •
-  <a href="#api-documentation">API</a> •
   <a href="#contributing">Contributing</a>
 </p>
 
@@ -347,30 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **🔧 Backend**: Built with [Express.js](https://expressjs.com/) and [Node.js](https://nodejs.org/)
 - **🎯 Icons**: Beautiful icons from [Lucide React](https://lucide.dev/)
 
-## 📞 Support & Community
 
-- 📧 **Email**: support@chatflow-ai.dev
-- 💬 **Discord**: [Join our community](https://discord.gg/chatflow-ai)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/chatflow-ai/issues)
-- 📖 **Documentation**: [Full Documentation](https://docs.chatflow-ai.dev)
-- 🐦 **Twitter**: [@ChatFlowAI](https://twitter.com/chatflowai)
-
-## 🗺️ Roadmap
-
-### 🔜 Coming Soon
-- [ ] **Voice Chat** - Speech-to-text and text-to-speech
-- [ ] **File Uploads** - Share and analyze documents
-- [ ] **Plugin System** - Extend functionality with custom plugins
-- [ ] **Team Workspaces** - Collaborative AI conversations
-- [ ] **Advanced Analytics** - Conversation insights and metrics
-
-### 🎯 Future Plans
-- [ ] **Mobile Apps** - Native iOS and Android applications
-- [ ] **API Marketplace** - Connect with external services
-- [ ] **Custom Models** - Train personalized AI assistants
-- [ ] **Enterprise Features** - SSO, audit logs, compliance tools
-
----
 
 <div align="center">
   <img src="assets/logo.svg" alt="ChatFlow AI" width="60" height="60" />
@@ -378,8 +353,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   **Made with ❤️ by Rusil**
   
   <p>
-    <a href="https://github.com/yourusername/chatflow-ai">⭐ Star us on GitHub</a> •
-    <a href="https://twitter.com/chatflowai">🐦 Follow on Twitter</a> •
-    <a href="https://discord.gg/chatflow-ai">💬 Join Discord</a>
+    <a href="https://github.com/rusilkoirala/chatflow-ai">⭐ Star us on GitHub</a> •
+
   </p>
 </div>
