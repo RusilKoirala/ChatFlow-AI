@@ -1,0 +1,41 @@
+{
+  "name": "chatflow",
+  "version": "1.0.0",
+  "description": "A modern, full-stack conversation platform with intelligent response generation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "setup": "python run_complete_pipeline.py",
+    "test": "cd backend && npm test && cd ../frontend && npm test"
+  },
+  "keywords": [
+    "chat",
+    "ai",
+    "conversation",
+    "react",
+    "nodejs",
+    "machine-learning"
+  ],
+  "author": "ChatFlow Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "python": ">=3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/chatflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/chatflow/issues"
+  },
+  "homepage": "https://github.com/yourusername/chatflow#readme"
+}
